@@ -2,7 +2,7 @@
 Naam docent : Stevens Ophalvens
 Domein naam : /
 
-# Logboek Web & Mobile - Moahmed Ben Hammadi
+# Logboek Web & Mobile - Mohamed Ben Hammadi
 
 
 ## Week 1 - 4.35 uur
