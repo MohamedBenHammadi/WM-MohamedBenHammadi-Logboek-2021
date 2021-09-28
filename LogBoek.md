@@ -11,7 +11,7 @@ Domein naam : /
     * Slides overlopen : 0.30 uur
     * Aanmaken van een nieuwe repo : 0.25 uur
     * Aanmaken van .md logboek : O.25 uur
-*  Les O1
+*  Les 01
     * Slides overlopen : 0.30 uur
     * Php Tutorials : 1.25 uur
     * Oefeningen maken : 2 uur
