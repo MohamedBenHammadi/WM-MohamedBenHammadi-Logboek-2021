@@ -22,3 +22,16 @@ Domein naam : /
 * Deel 2
     * code van deel 2 doornemen + aanpassen : 2 uur (in het begin was het niet duidelijk)
     * oefeningen maken REST_API + prepared statements : 3 uur
+    * 
+## Week 3 - 5 uur
+
+* installatie cordova + aanmaken project : 1 uur
+* installatie graddle + androïd studio sdk's : 1 uur
+
+* Oefening 1 "hello world cordova app" : 0.5 uur
+* OEfening 2 "Uitbreiding" add en delete operaties : 2.5 uur
+
+## Week 4 - 5 uur
+* installatie  + aanmaken van F7 cordova project : 2 uur
+* installatie plugins + aanpasingen stap 4 : 0.5 uur
+* oefeningen : 1.5 uur
