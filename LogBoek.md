@@ -35,3 +35,13 @@ Domein naam : /
 * installatie  + aanmaken van F7 cordova project : 2 uur
 * installatie plugins + aanpasingen stap 4 : 0.5 uur
 * oefeningen : 1.5 uur
+
+## Week 5 - 8 uur
+* Project kiezen
+* Brainstorming met teamgenote + aamaken van github repo : 1uur
+* Verder gewerkt aan eigen cordova app : 7uur
+
+## Week 6 - 4.75 uur
+* Slides overlopen :0.25 uur
+* Aanmaken van udacity account: 0.30 uur
+* Verder brainstorming met teamgenote en maken van schetsen : 4 uur
